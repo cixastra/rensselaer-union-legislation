@@ -1,5 +1,33 @@
 {
-  "legislation": [],
+  "legislation": [
+    {
+      "id": "1764126860909",
+      "number": "Fall-2024-001",
+      "title": "Bill Title",
+      "author": "Senator Sponsor",
+      "coAuthors": [
+        "Coauthor",
+        "Coauthor 2"
+      ],
+      "text": "Bill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text",
+      "committee": "",
+      "status": "draft",
+      "session": "Fall 2024",
+      "dateCreated": "2025-11-26T03:14:20.909Z",
+      "dateModified": "2025-11-26T03:14:20.909Z",
+      "versions": [
+        {
+          "version": 1,
+          "text": "Bill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text",
+          "date": "2025-11-26T03:14:20.909Z",
+          "author": "Senator Sponsor",
+          "note": "Initial version"
+        }
+      ],
+      "amendments": [],
+      "votes": []
+    }
+  ],
   "currentSession": "Fall 2024",
-  "lastUpdated": "2025-11-26T03:12:17.020Z"
+  "lastUpdated": "2025-11-26T03:14:20.909Z"
 }
