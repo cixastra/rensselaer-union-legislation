@@ -9,12 +9,12 @@
         "Coauthor",
         "Coauthor 2"
       ],
-      "text": "Bill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text",
+      "text": "Bill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n[AMENDMENT]: Add new line\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text.",
       "committee": "",
       "status": "draft",
       "session": "Fall 2024",
       "dateCreated": "2025-11-26T03:14:20.909Z",
-      "dateModified": "2025-11-26T03:14:20.909Z",
+      "dateModified": "2025-11-26T03:15:16.791Z",
       "versions": [
         {
           "version": 1,
@@ -22,12 +22,29 @@
           "date": "2025-11-26T03:14:20.909Z",
           "author": "Senator Sponsor",
           "note": "Initial version"
+        },
+        {
+          "version": 2,
+          "text": "Bill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text\n\n[AMENDMENT]: Add new line\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text.",
+          "date": "2025-11-26T03:15:16.791Z",
+          "author": "Amendment",
+          "note": "Friendly amendment by Amendment"
         }
       ],
-      "amendments": [],
+      "amendments": [
+        {
+          "id": "1764126916791",
+          "author": "Amendment",
+          "type": "friendly",
+          "text": "Add new line\n\nBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill textBill text.",
+          "date": "2025-11-26T03:15:16.791Z",
+          "status": "accepted",
+          "votes": []
+        }
+      ],
       "votes": []
     }
   ],
   "currentSession": "Fall 2024",
-  "lastUpdated": "2025-11-26T03:14:20.909Z"
+  "lastUpdated": "2025-11-26T03:15:16.791Z"
 }
